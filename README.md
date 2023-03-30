@@ -20,11 +20,12 @@ Dependencies
 And add "blossom" to you 
 /etc/sddm.conf
 
-``
+
+
+
 [Theme]
 # Current theme name
 Current=blossom
-``
 
 
 
