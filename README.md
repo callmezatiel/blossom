@@ -22,11 +22,10 @@ And add "blossom" to you
 
 
 
-
+```
 [Theme]
 # Current theme name
 Current=blossom
+```
 
-
-
-[![Preview](https://i.postimg.cc/j5rqjL0m/preview.png)]
+![Preview](https://i.postimg.cc/j5rqjL0m/preview.png)
