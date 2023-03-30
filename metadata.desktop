@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=blossom
+Description=Premium Theme SDDM
+Author=Zatiel
+Copyright=Copyright (C) 2023 Zatiel Creative
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.6
+Website=github.com/callmezatiel
+Screenshot=Previews/blossom-preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Twitter= @callmezatiel
+Theme-Id=blossom
+Theme-API=2.11
