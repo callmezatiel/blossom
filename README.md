@@ -16,8 +16,8 @@ Debian based distros using the APT package manager:
 (Ubuntu/Kubuntu/Kali/Neon/antiX etc.)
 ```
 sudo apt install --no-install-recommends sddm qml-module-qtquick-layouts qml-module-qtgraphicaleffects qml-module-qtquick-controls2 libqt5svg5
-Arch based distros using the pacman package manger:
 ```
+Arch based distros using the pacman package manger:
 (Obarun/Artix/Manjaro/KaOS/Chakra etc.)
 ```
 sudo pacman -S --needed sddm qt5-graphicaleffects qt5-quickcontrols2 qt5-svg
